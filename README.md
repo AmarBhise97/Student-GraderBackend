@@ -1,7 +1,7 @@
  🎓 Student Grader System
 
  📌 Project Overview
-The Student Grader System is a full-stack web application developed to conduct online examinations, automatically evaluate student responses, and manage grading efficiently.  
+The Student Grader System is a full-stack web application developed to conduct online examinations, automatically evaluate student responses, and manage grading efficiently.
 It is designed for educational institutions to reduce manual evaluation effort and provide quick, accurate results.
 
 The system follows a client-server architecture with a modern frontend and a secure backend.
