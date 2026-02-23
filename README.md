@@ -74,7 +74,7 @@ The system follows a client-server architecture with a modern frontend and a sec
 
 Studentgrader/
 │
-├── Graderfinal/                  # Frontend (React + Vite)
+├── Graderfinal/
 │   ├── public/
 │   ├── src/
 │   │   ├── Components/
@@ -84,10 +84,10 @@ Studentgrader/
 │   ├── package.json
 │   └── index.html
 │
-├── Studentgraderbackend/         # Backend (Spring Boot)
+├── Studentgraderbackend/
 │   └── StudentGrader/
 │       ├── src/main/java/
-│       │   └── com.StudentGrader/
+│       │   └── com/StudentGrader/
 │       │       ├── Controller/
 │       │       ├── Service/
 │       │       ├── Repository/
@@ -97,7 +97,6 @@ Studentgrader/
 │       │   ├── application.properties
 │       │   └── questions_full.json
 │       └── pom.xml
----
 
  ⚙️ Backend Setup (Spring Boot)
 
