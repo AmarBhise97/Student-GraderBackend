@@ -72,19 +72,7 @@ The system follows a client-server architecture with a modern frontend and a sec
 
  📁 Project Structure
 
-Studentgrader/
-│
-├── Graderfinal/
-│   ├── public/
-│   ├── src/
-│   │   ├── Components/
-│   │   ├── Pages/
-│   │   ├── App.jsx
-│   │   └── App.css
-│   ├── package.json
-│   └── index.html
-│
-├── Studentgraderbackend/
+ ├── Studentgraderbackend/
 │   └── StudentGrader/
 │       ├── src/main/java/
 │       │   └── com/StudentGrader/
